@@ -2,8 +2,5 @@
 222sss222333
 lishi ++  list++ master++
 list angle
-<<<<<<< HEAD
 add_9527
-=======
 master3
->>>>>>> upstream/master
