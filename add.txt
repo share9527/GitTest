@@ -1,7 +1,4 @@
-<<<<<<< .mine
 222sss
-=======
 222sss222333
->>>>>>> .theirs
 lishi ++  list++
-list
+list angle
