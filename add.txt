@@ -1,6 +1,3 @@
-<<<<<<< .mine
 222sss
-=======
 222sss222333
->>>>>>> .theirs
-lishi ++  master++
+lishi ++  list++ master++
